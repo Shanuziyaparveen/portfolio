@@ -17,43 +17,42 @@ const About = () => {
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Frontend developer
-                </h1>
-                <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
-                </p>
+              <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+  Frontend Developer
+</h1>
+<p className="text-sm md:text-md leading-tight">
+  Skilled in building dynamic, responsive web applications with expertise in HTML, CSS, JavaScript, and modern frameworks like React, Vue.js, and Next.js. Passionate about creating seamless user experiences, solving complex problems, and staying updated with new technologies to keep my skills sharp and relevant.
+</p>
+
+</span>
+
+            </div>
+            <div className="flex gap-3 py-4">
+              <IoArrowForward size={30} className="mt-1" />
+
+              <span className="w-96">
+             
+              <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+  Backend Developer
+</h1>
+<p className="text-sm md:text-md leading-tight">
+ skilled in building scalable, efficient backend systems with Node.js, Express.js, and TypeScript. Proficient in databases like MongoDB, MySQL, and PostgreSQL, and skilled in designing secure APIs. Focused on performance optimization, containerization with Docker, and leveraging modern cloud platforms like AWS and Azure to build robust applications.
+</p>
               </span>
             </div>
             <div className="flex gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
 
               <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Database developer
-                </h1>
-                <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
-                </p>
-              </span>
-            </div>
-            <div className="flex gap-3 py-4">
-              <IoArrowForward size={30} className="mt-1" />
+              <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+  Full Stack Developer
+</h1>
+<p className="text-sm md:text-md leading-tight">
+  A versatile developer skilled in both frontend and backend technologies. On the frontend, I'm proficient in HTML, CSS, JavaScript, React, Vue.js, and Next.js, creating dynamic, responsive applications. On the backend, I specialize in Node.js, Express.js, and TypeScript, with experience in databases like MongoDB, MySQL, and PostgreSQL. Passionate about building scalable, high-performance web applications and APIs, ensuring security and seamless user experiences.
+</p>
 
-              <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Backend developer
-                </h1>
-                <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
-                </p>
+           
+
               </span>
             </div>
           </ul>
